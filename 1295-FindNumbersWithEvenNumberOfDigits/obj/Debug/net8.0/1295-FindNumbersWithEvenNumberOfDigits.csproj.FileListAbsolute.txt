@@ -1,0 +1,14 @@
+C:\dev\LeetCode\Array\1295-FindNumbersWithEvenNumberOfDigits\bin\Debug\net8.0\1295-FindNumbersWithEvenNumberOfDigits.exe
+C:\dev\LeetCode\Array\1295-FindNumbersWithEvenNumberOfDigits\bin\Debug\net8.0\1295-FindNumbersWithEvenNumberOfDigits.deps.json
+C:\dev\LeetCode\Array\1295-FindNumbersWithEvenNumberOfDigits\bin\Debug\net8.0\1295-FindNumbersWithEvenNumberOfDigits.runtimeconfig.json
+C:\dev\LeetCode\Array\1295-FindNumbersWithEvenNumberOfDigits\bin\Debug\net8.0\1295-FindNumbersWithEvenNumberOfDigits.dll
+C:\dev\LeetCode\Array\1295-FindNumbersWithEvenNumberOfDigits\bin\Debug\net8.0\1295-FindNumbersWithEvenNumberOfDigits.pdb
+C:\dev\LeetCode\Array\1295-FindNumbersWithEvenNumberOfDigits\obj\Debug\net8.0\1295-FindNumbersWithEvenNumberOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\LeetCode\Array\1295-FindNumbersWithEvenNumberOfDigits\obj\Debug\net8.0\1295-FindNumbersWithEvenNumberOfDigits.AssemblyInfoInputs.cache
+C:\dev\LeetCode\Array\1295-FindNumbersWithEvenNumberOfDigits\obj\Debug\net8.0\1295-FindNumbersWithEvenNumberOfDigits.AssemblyInfo.cs
+C:\dev\LeetCode\Array\1295-FindNumbersWithEvenNumberOfDigits\obj\Debug\net8.0\1295-FindNumbersWithEvenNumberOfDigits.csproj.CoreCompileInputs.cache
+C:\dev\LeetCode\Array\1295-FindNumbersWithEvenNumberOfDigits\obj\Debug\net8.0\1295-FindNumbersWithEvenNumberOfDigits.dll
+C:\dev\LeetCode\Array\1295-FindNumbersWithEvenNumberOfDigits\obj\Debug\net8.0\refint\1295-FindNumbersWithEvenNumberOfDigits.dll
+C:\dev\LeetCode\Array\1295-FindNumbersWithEvenNumberOfDigits\obj\Debug\net8.0\1295-FindNumbersWithEvenNumberOfDigits.pdb
+C:\dev\LeetCode\Array\1295-FindNumbersWithEvenNumberOfDigits\obj\Debug\net8.0\1295-FindNumbersWithEvenNumberOfDigits.genruntimeconfig.cache
+C:\dev\LeetCode\Array\1295-FindNumbersWithEvenNumberOfDigits\obj\Debug\net8.0\ref\1295-FindNumbersWithEvenNumberOfDigits.dll
