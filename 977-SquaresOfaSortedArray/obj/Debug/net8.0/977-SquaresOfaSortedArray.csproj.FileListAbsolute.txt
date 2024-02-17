@@ -1,0 +1,15 @@
+C:\dev\LeetCode\Array\977-SquaresOfaSortedArray\bin\Debug\net8.0\977-SquaresOfaSortedArray.exe
+C:\dev\LeetCode\Array\977-SquaresOfaSortedArray\bin\Debug\net8.0\977-SquaresOfaSortedArray.deps.json
+C:\dev\LeetCode\Array\977-SquaresOfaSortedArray\bin\Debug\net8.0\977-SquaresOfaSortedArray.runtimeconfig.json
+C:\dev\LeetCode\Array\977-SquaresOfaSortedArray\bin\Debug\net8.0\977-SquaresOfaSortedArray.dll
+C:\dev\LeetCode\Array\977-SquaresOfaSortedArray\bin\Debug\net8.0\977-SquaresOfaSortedArray.pdb
+C:\dev\LeetCode\Array\977-SquaresOfaSortedArray\obj\Debug\net8.0\977-SquaresOfaSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\LeetCode\Array\977-SquaresOfaSortedArray\obj\Debug\net8.0\977-SquaresOfaSortedArray.AssemblyInfoInputs.cache
+C:\dev\LeetCode\Array\977-SquaresOfaSortedArray\obj\Debug\net8.0\977-SquaresOfaSortedArray.AssemblyInfo.cs
+C:\dev\LeetCode\Array\977-SquaresOfaSortedArray\obj\Debug\net8.0\977-SquaresOfaSortedArray.csproj.CoreCompileInputs.cache
+C:\dev\LeetCode\Array\977-SquaresOfaSortedArray\obj\Debug\net8.0\977-SquaresOfaSortedArray.sourcelink.json
+C:\dev\LeetCode\Array\977-SquaresOfaSortedArray\obj\Debug\net8.0\977-SquaresOfaSortedArray.dll
+C:\dev\LeetCode\Array\977-SquaresOfaSortedArray\obj\Debug\net8.0\refint\977-SquaresOfaSortedArray.dll
+C:\dev\LeetCode\Array\977-SquaresOfaSortedArray\obj\Debug\net8.0\977-SquaresOfaSortedArray.pdb
+C:\dev\LeetCode\Array\977-SquaresOfaSortedArray\obj\Debug\net8.0\977-SquaresOfaSortedArray.genruntimeconfig.cache
+C:\dev\LeetCode\Array\977-SquaresOfaSortedArray\obj\Debug\net8.0\ref\977-SquaresOfaSortedArray.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\LeetCode\\Array\\977-SquaresOfaSortedArray\\977-SquaresOfaSortedArray.csproj": {}
+    "C:\\dev\\LeetCode\\Array\\977-SquaresOfaSortedArray\\977-SquaresOfaSortedArray.csproj": {}
   },
   "projects": {
-    "c:\\dev\\LeetCode\\Array\\977-SquaresOfaSortedArray\\977-SquaresOfaSortedArray.csproj": {
+    "C:\\dev\\LeetCode\\Array\\977-SquaresOfaSortedArray\\977-SquaresOfaSortedArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\LeetCode\\Array\\977-SquaresOfaSortedArray\\977-SquaresOfaSortedArray.csproj",
+        "projectUniqueName": "C:\\dev\\LeetCode\\Array\\977-SquaresOfaSortedArray\\977-SquaresOfaSortedArray.csproj",
         "projectName": "977-SquaresOfaSortedArray",
-        "projectPath": "c:\\dev\\LeetCode\\Array\\977-SquaresOfaSortedArray\\977-SquaresOfaSortedArray.csproj",
+        "projectPath": "C:\\dev\\LeetCode\\Array\\977-SquaresOfaSortedArray\\977-SquaresOfaSortedArray.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\LeetCode\\Array\\977-SquaresOfaSortedArray\\obj\\",
+        "outputPath": "C:\\dev\\LeetCode\\Array\\977-SquaresOfaSortedArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",

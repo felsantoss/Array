@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "977-SquaresOfaSortedArray/1.0.0": {
+        "runtime": {
+          "977-SquaresOfaSortedArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "977-SquaresOfaSortedArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
